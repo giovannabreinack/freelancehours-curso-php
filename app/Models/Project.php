@@ -30,3 +30,5 @@ class Project extends Model
         return $this->hasMany(Proposal::class);
     }
 }
+
+// Final da aula 02
